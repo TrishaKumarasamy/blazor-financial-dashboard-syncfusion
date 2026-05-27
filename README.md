@@ -1,6 +1,6 @@
 # Simple Financial Dashboard
 
-A comprehensive financial analytics dashboard built with Blazor Server and Components, featuring interactive pivot tables, charts, and data grids for powerful financial data visualization and analysis.
+A comprehensive financial analytics dashboard built with Blazor Server and [Blazor Components](https://www.syncfusion.com/blazor-components), featuring interactive [pivot tables](https://www.syncfusion.com/blazor-components/blazor-pivot-table), [charts](https://www.syncfusion.com/blazor-components/blazor-charts), and [data grids](https://www.syncfusion.com/blazor-components/blazor-datagrid) for powerful financial data visualization and analysis.
 
 ## Overview
 
@@ -70,8 +70,10 @@ dotnet run
 ```
 ## References
 
-- [Blazor DataGrid Documentation](https://www.syncfusion.com/blazor-components/blazor-datagrid)
-- [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core)
-- [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
+- [Blazor DataGrid Documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app)
+- [Blazor Charts Documentation](https://blazor.syncfusion.com/documentation/chart/getting-started-with-web-app)
+- [Blazor Dashboard Layout Documentation](https://blazor.syncfusion.com/documentation/dashboard-layout/getting-started-with-web-app)
+- [Online Dashboard Layout Demo](https://blazor.syncfusion.com/demos/dashboard-layout/overview?theme=fluent2)
 
 
